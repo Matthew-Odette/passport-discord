@@ -1,4 +1,4 @@
-# passport-discord
+# passport-discordapp
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [Discord](https://discordapp.com/) using the OAuth 2.0 API.
@@ -11,7 +11,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-discord
+    // Not yet added to npm
 
 ## Usage
 

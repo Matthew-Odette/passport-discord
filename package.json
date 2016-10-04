@@ -1,5 +1,5 @@
 {
-    "name": "passport-discord",
+    "name": "passport-discordapp",
     "version": "0.1.0",
     "description": "Discord authentication strategy for Passport.",
     "keywords": ["passport", "discord", "auth", "authn", "authentication", "identity"],
