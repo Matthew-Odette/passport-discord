@@ -1,14 +1,14 @@
 {
     "name": "passport-discord",
     "version": "0.1.0",
-    "description": "Discord.gg authentication strategy for Passport.",
+    "description": "Discord authentication strategy for Passport.",
     "keywords": ["passport", "discord", "auth", "authn", "authentication", "identity"],
     "repository": {
         "type": "git",
-        "url": "" 
+        "url": "git://github.com/Matthew-Odette/passport-discord.git"
     },
     "bugs": {
-        "url": "" 
+        "url": "https://github.com/Matthew-Odette/passport-discord/issues"
     },
     "author": {
         "name": "Matthew Odette",
