@@ -1,0 +1,30 @@
+{
+    "name": "passport-discord",
+    "version": "0.1.0",
+    "description": "Discord.gg authentication strategy for Passport.",
+    "keywords": ["passport", "discord", "auth", "authn", "authentication", "identity"],
+    "repository": {
+        "type": "git",
+        "url": "" 
+    },
+    "bugs": {
+        "url": "" 
+    },
+    "author": {
+        "name": "Matthew Odette",
+        "email": "matthew@kappa.ninja"
+    },
+    "licenses": [ {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licences/MIT"
+    } ],
+    "main": "./lib/passport-discord",
+    "dependencies": {
+        "pkginfo": "~0.3.0",
+        "passport-oauth": "~1.0.0"
+    },
+    "devDependencies": {
+        "vows": "0.x"
+    },
+    "engines": { "node": ">= 0.4.0" }
+}
