@@ -1,4 +1,4 @@
-# Passport-Discord
+# passport-discord
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [Discord](https://discordapp.com/) using the OAuth 2.0 API.
